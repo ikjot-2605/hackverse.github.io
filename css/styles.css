@@ -950,7 +950,7 @@ a:hover {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #077729;
+  background-color: #00c4b3;
   color: white;
 }
 
@@ -1053,12 +1053,12 @@ a:hover {
     .single-speaker-area .speaker-info h5 {
       font-size: 20px;
       font-weight: 800;
-      color: rgb(139, 11, 11)		;
+      color: #233452		;
       letter-spacing: 1px;
       margin-bottom: 0px;
      }
     .single-speaker-area .speaker-info p {
-      color:#FBC901;
+      color:#01a193;
       margin-bottom: 0;
       letter-spacing: 1px;
       line-height: 1; }
