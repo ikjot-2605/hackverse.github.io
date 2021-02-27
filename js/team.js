@@ -40,7 +40,7 @@ let adv_info = [{
         designation: 'Dean Alumni Affairs and Institutional Relations'
     },
     {
-        name: 'Prof. M.S. Bhat',
+        name: 'Prof. M.S.Bhat',
         image_path: 'adv-com/ahs.jpg',
         email: 'ahs@nitk.ac.in',
         linkedin: '#',
